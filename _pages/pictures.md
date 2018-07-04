@@ -12,7 +12,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 ## Leiden
 
 #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="{{ site.url }}{{ site.baseurl }}/images/video/uav.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzcwMzEzMDM2NA==' frameborder=0 'allowfullscreen'></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
 
