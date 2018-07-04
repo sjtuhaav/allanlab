@@ -63,9 +63,3 @@ Group leader of SJTUHAAV in [SJTU](https://www.sjtu.edu.cn/).
 {% endif %}
 
 <p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
