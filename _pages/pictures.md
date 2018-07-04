@@ -18,7 +18,6 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <source src="{{ site.url }}{{ site.baseurl }}/images/video/uav.mp4">
 </video>
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzcwMzEzMDM2NA==' frameborder=0 'allowfullscreen'></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
@@ -65,20 +64,8 @@ First advertisement.
 </figure>
 
 
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
+## Zeng Zheng
+Group leader of a lab in [SJTU](https://www.sjtu.edu.cn/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zengzheng.png" width="60%">
 </figure>
