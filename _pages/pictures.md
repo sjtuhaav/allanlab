@@ -5,14 +5,10 @@ excerpt: "Allan Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
+## Our video
 
-## Leiden
-
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-
+#### Our uav 
 
 <video width="480" height="320" controls>
 <source src="{{ site.url }}{{ site.baseurl }}/images/video/uav.mp4">
