@@ -19,6 +19,12 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 </video>
 
 
+## Zeng Zheng
+Group leader of SJTUHAAV in [SJTU](https://www.sjtu.edu.cn/).
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zengzheng.png" width="60%">
+</figure>
+
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
@@ -63,9 +69,3 @@ First advertisement.
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
 </figure>
 
-
-## Zeng Zheng
-Group leader of a lab in [SJTU](https://www.sjtu.edu.cn/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zengzheng.png" width="60%">
-</figure>
