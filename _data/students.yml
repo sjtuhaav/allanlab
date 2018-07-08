@@ -7,9 +7,10 @@
 #  education2:  
 #  education3: 
 #  education4:  
-- name: Willem Tromp
-  photo: rock.jpg
-  info: Master student
-  email: WTromp@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
+- name: Di Lu  
+  photo: Doohee2.jpg
+  info: PhD student, started Sep 2015
+  email: llltom@sjtu.edu.com
+  number_educ: 2  
+  education1: B.E. Huazhong University of Science and Technology, China
+  education2: PhD Shanghai Jiao Tong University, China with Lian Lian
