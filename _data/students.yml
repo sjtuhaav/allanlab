@@ -121,6 +121,13 @@
   number_educ: 1
   education1: Shanghai Jiaotong University, Shanghai
 
+- name: Zeng Yucheng
+  photo: zengyucheng.jpg
+  info: undergraduate, started 2016  
+  email: zengyc@sjtu.edu.cn
+  number_educ: 1  
+  education1: Shanghai Jiao Tong University
+
 - name: Siyi Zheng
   photo: siyizheng.jpg
   info: Undergraduate, started September 2016
