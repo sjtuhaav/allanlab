@@ -1,9 +1,9 @@
 ---
-title: "SJTUHAAV Lab - Vacancies"
+title: "SJTUHAAV Lab - Projects"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /projects
 ---
 
 # Open positions
