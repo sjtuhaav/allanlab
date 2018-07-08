@@ -22,10 +22,9 @@
   number_educ: 1  
   education1: undergraduate student in Shanghai Jiao Tong University
 
-
 - name: Jianhu Wang
   photo: jianhuwang.png
-  info: Undergraduate student
+  info: Undergraduate student, started Sept. 2016
   email: wangjianhu_sjtu@163.com
   number_educ: 1
   education1: naval architecture and ocean engineering in Shanghai Jiao Tong University
@@ -36,3 +35,23 @@
   email: 1090156177@qq.com
   number_educ: 1
   education1: undergraduate student of SJTU, Major in Civil engineering
+
+- name: Chen Siqi
+  photo: chensiqi.jpg
+  info: bachelor, started Sep 2017
+  email: Chan_4_7@sjtu.edu.cn
+  number_educ: 1
+  educational: Shanghai Jiao Tong University, China
+
+- name: HanBo
+  photo: HanBo.jpg
+  info: bachelor, started September 2017
+  number_educ: 1
+  education1: Shanghai Jiao Tong University, China
+
+- name: Jiayi Wang
+  Photo: wangjiayi.jpg
+  info: undergraduate，started SEP 2016
+  Email: 1257191427@sjtu.edu.cn
+  number_educ: 1
+  education: Shanghai jiao Tong University
