@@ -15,6 +15,13 @@
   education1: B.E. Huazhong University of Science and Technology, China
   education2: PhD Shanghai Jiao Tong University, China with Lian Lian
 
+- name: Chengke Xiong
+  photo: xck.jpg
+  info: PhD student, started Sep 2015  
+  email: xiongchengke@sjtu.edu.cn
+  number_educ: 4
+  education1: B.S. Huazhong University of Science and Technology, China
+
 - name: Hanwen Zhang
   photo: hanwenzhang.jpg  
   info: Master, started September 2018
@@ -61,6 +68,25 @@
   info: undergraduate，started SEP 2016
   email: 1257191427@sjtu.edu.cn
   number_educ: 1
-  education: Shanghai jiao Tong University
+  education1: Shanghai jiao Tong University
 
+- name: Jiang Zhiding
+  photo: jiangzhiding.jpg
+  info: Undergraduate started September 2017
+  email: universe12138@sjtu.edu.cn
+  number_educ: 1
+  education1: Shanghai Jiao Tong University, China  
 
+- name: He Jiaping
+  photo: hejiaping.jpg
+  info: undergraduate,  started 2016
+  email: hejiaping2016@sjtu.edu.cn
+  number_educ: 1
+  education1: B.E SJTU-ParisTech Elite Institute of Technology
+
+- name: Liu Bo
+  photo: liubo.jpg
+  info: undergraduate, started 2017
+  email: sunnyday@sjtu.edu.cn
+  number_educ: 1
+  education1: Shanghai Jiao Tong University, China  
