@@ -15,6 +15,15 @@
   education1: B.E. Huazhong University of Science and Technology, China
   education2: PhD Shanghai Jiao Tong University, China with Lian Lian
 
+- name: Hexiong Zhou
+  photo: hexiongzhou.jpg
+  email: zhou_hexiong@sjtu.edu.cn
+  info: PhD Student started April 2018
+  number_educ: 3
+  education1: Bachelor Northwestern Polytechnical University
+  education2: Master Harbin Engineering University
+  education3: PhD Shanghai Jiao Tong University 
+
 - name: Chengke Xiong
   photo: xck.jpg
   info: PhD student, started Sep 2015  
@@ -35,6 +44,13 @@
   email: BozhiLyu@gmail.com
   number_educ: 1  
   education1: undergraduate student in Shanghai Jiao Tong University
+
+- name: Yiwei Yang
+  photo: yiweiyang.jpg
+  info: Undergraduate Started Sept 2017
+  email: yyw0063@sjtu.edu.cn
+  number_educ: 1
+  education1: B.S. Shanghai Jiao Tong University, China
 
 - name: Jianhu Wang
   photo: jianhuwang.png
@@ -90,3 +106,60 @@
   email: sunnyday@sjtu.edu.cn
   number_educ: 1
   education1: Shanghai Jiao Tong University, China  
+
+- name: Mengyuan Guo
+  photo: mengyuanguo.jpg
+  info: Bachelor, started Sept 2016
+  email: guomengyuan618@sjtu.edu.cn
+  number_educ: 1
+  education1: Shanghai Jiaotong University, China
+
+- name: Yu Lang
+  photo: yulang.jpg
+  info: undergraduate, started Sep 2017
+  email: 517020910065@sjtu.edu.cn
+  number_educ: 1
+  education1: Shanghai Jiaotong University, Shanghai
+
+- name: Siyi Zheng
+  photo: siyizheng.jpg
+  info: Undergraduate, started September 2016
+  email: tang_c@sjtu.edu.cn
+  number_educ: 1
+  education1: B.S. Shanghai Jiaotong University, China
+
+- name: Zhechen Wu
+  photo: zhechenwu.jpg
+  info: Undergraduate, started September 2016  
+  email: 1031924241@qq.com
+  number_educ: 1
+  education1: Shanghai Jiao Tong University, China
+
+- name: Triomphe Kong 
+  photo: triomphekong.jpg
+  info: Undergraduate, started Sept. 2016 
+  email: Triomphe_jch@sjtu.edu.cn
+  number_educ: 1  
+  education1: Shanghai Jiao Tong University, China
+
+- name: Zhihao Fan
+  photo: zhihaofan.jpg
+  info: student, started Sep 2017
+  email: 806871355@qq.com
+  number_educ: 1
+  educationl: Shanghai Jiaotong University, China
+
+- name: Han Diao
+  photo: handiao.jpg
+  info: undergraduate, started in 2017
+  email: divinghorse@sjtu.edu.cn
+  number_educ: 1
+  education1: Shanghai Jiao Tong University, China.
+
+- name: ChenBen
+  photo: in package
+  info: undergraduate F16
+  email: benchen1017@163.com
+  number educ: 1
+  educational: Shanghai Jiaotong University
+
