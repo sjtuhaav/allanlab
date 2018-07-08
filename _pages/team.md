@@ -11,11 +11,11 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** 
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students)
+Jump to [Senior Consultant](#senior-consultant), [staff](#staff), [master and bachelor students](#master-and-bachelor-students)
 
 ## Senior Consultant
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.consultant %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
