@@ -15,6 +15,13 @@
   education1: B.E. Huazhong University of Science and Technology, China
   education2: PhD Shanghai Jiao Tong University, China with Lian Lian
 
+- name: Hanwen Zhang
+  photo: hanwenzhang.jpg  
+  info: Master, started September 2018
+  email: zhanghanwen@sjtu.edu.cn  
+  number_educ: 1
+  education1: B.S. Shanghai Jiao Tong University, China
+
 - name: Bozhi Lyu
   photo: BozhiLyu.jpg
   info: Undergraduate student, started Sept. 2017
@@ -50,8 +57,10 @@
   education1: Shanghai Jiao Tong University, China
 
 - name: Jiayi Wang
-  Photo: wangjiayi.jpg
+  photo: wangjiayi.jpg
   info: undergraduate，started SEP 2016
-  Email: 1257191427@sjtu.edu.cn
+  email: 1257191427@sjtu.edu.cn
   number_educ: 1
   education: Shanghai jiao Tong University
+
+
