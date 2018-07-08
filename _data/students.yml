@@ -15,9 +15,24 @@
   education1: B.E. Huazhong University of Science and Technology, China
   education2: PhD Shanghai Jiao Tong University, China with Lian Lian
 
+- name: Bozhi Lyu
+  photo: BozhiLyu.jpg
+  info: Undergraduate student, started Sept. 2017
+  email: BozhiLyu@gmail.com
+  number_educ: 1  
+  education1: undergraduate student in Shanghai Jiao Tong University
+
+
+- name: Jianhu Wang
+  photo: jianhuwang.png
+  info: Undergraduate student
+  email: wangjianhu_sjtu@163.com
+  number_educ: 1
+  education1: naval architecture and ocean engineering in Shanghai Jiao Tong University
+
 - name: Yixuan  Yu
   photo: yixuanyu.jpg
-  info: Undergraduate  student, started Sep 2017 
+  info: Undergraduate student, started Sep 2017 
   email: 1090156177@qq.com
   number_educ: 1
   education1: undergraduate student of SJTU, Major in Civil engineering
