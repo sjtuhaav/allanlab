@@ -157,9 +157,15 @@
   education1: Shanghai Jiao Tong University, China.
 
 - name: ChenBen
-  photo: in package
+  photo: chenben.jpg
   info: undergraduate F16
   email: benchen1017@163.com
   number educ: 1
   educational: Shanghai Jiaotong University
 
+- name: Wu Jiajin
+  photo: wujiajin.jpg
+  info: Undergraduate, started Sept 2017
+  email: awbjcj@sjtu.edu.cn
+  number_educ: 1 
+  education1: B.S. Shanghai Jiao Tong University
