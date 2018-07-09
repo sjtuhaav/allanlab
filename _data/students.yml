@@ -25,137 +25,163 @@
 - name: Chengke Xiong
   photo: xck.jpg
   info: PhD student, started Sep 2015  
-  number_educ: 1
+  number_educ: 2
   education1: B.S. Huazhong University of Science and Technology, China
+  education2: PhD Shanghai Jiao Tong University, China with Lian Lian
 
 - name: Hanwen Zhang
   photo: hanwenzhang.jpg  
-  info: Master, started September 2018
-  number_educ: 1
-  education1: B.S. Shanghai Jiao Tong University, China
+  info: Master, started Sept. 2018
+  number_educ: 2
+  education1: B.S. Shanghai Jiao Tong University
+  education2: Master Shanghai Jiao Tong University
+
 
 - name: Bozhi Lyu
   photo: BozhiLyu.jpg
-  info: Undergraduate student, started Sept. 2017
-  number_educ: 1  
-  education1: undergraduate student in Shanghai Jiao Tong University
+  info: Undergraduate, started Sept. 2017
+  number_educ: 1
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Yiwei Yang
   photo: yiweiyang.jpg
-  info: Undergraduate Started Sept 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: B.S. Shanghai Jiao Tong University, China
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Jianhu Wang
   photo: jianhuwang.png
-  info: Undergraduate student, started Sept. 2016
+  info: Undergraduate, started Sept. 2016
   number_educ: 1
-  education1: naval architecture and ocean engineering in Shanghai Jiao Tong University
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Yixuan  Yu
   photo: yixuanyu.jpg
-  info: Undergraduate student, started Sep 2017 
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: undergraduate student of SJTU, Major in Civil engineering
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Chen Siqi
   photo: chensiqi.jpg
-  info: bachelor, started Sep 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  educationa1: Shanghai Jiao Tong University, China
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: HanBo
   photo: HanBo.jpg
-  info: bachelor, started September 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: Shanghai Jiao Tong University, China
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Jiayi Wang
   photo: wangjiayi.jpg
-  info: undergraduate，started SEP 2016
+  info: Undergraduate, started Sept. 2016
   number_educ: 1
-  education1: Shanghai jiao Tong University
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Jiang Zhiding
   photo: jiangzhiding.jpg
-  info: Undergraduate started September 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: Shanghai Jiao Tong University, China  
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: He Jiaping
   photo: hejiaping.jpg
-  info: undergraduate,  started 2016
+  info: Undergraduate, started Sept. 2016
   number_educ: 1
-  education1: B.E SJTU-ParisTech Elite Institute of Technology
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Liu Bo
   photo: liubo.jpg
-  info: undergraduate, started 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: Shanghai Jiao Tong University, China  
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Mengyuan Guo
   photo: mengyuanguo.jpg
-  info: Bachelor, started Sept 2016
+  info: Undergraduate, started Sept. 2016
   number_educ: 1
-  education1: Shanghai Jiaotong University, China
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Yu Lang
   photo: yulang.PNG
-  info: undergraduate, started Sep 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: Shanghai Jiaotong University, Shanghai
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Zeng Yucheng
   photo: zengyucheng.jpg
-  info: undergraduate, started 2016  
-  number_educ: 1  
-  education1: Shanghai Jiao Tong University
+  info: Undergraduate, started Sept. 2016
+  number_educ: 1
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Siyi Zheng
   photo: siyizheng.jpg
-  info: Undergraduate, started September 2016
+  info: Undergraduate, started Sept. 2016
   number_educ: 1
-  education1: B.S. Shanghai Jiaotong University, China
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Zhechen Wu
   photo: zhechenwu.jpg
-  info: Undergraduate, started September 2016  
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: Shanghai Jiao Tong University, China
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Triomphe Kong 
   photo: triomphekong.jpg
   info: Undergraduate, started Sept. 2016 
-  number_educ: 1  
-  education1: Shanghai Jiao Tong University, China
+  number_educ: 1
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Zhihao Fan
   photo: zhihaofan.jpg
-  info: student, started Sep 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: Shanghai Jiaotong University, China
+  education1: B.S. Shanghai Jiao Tong University
+
 
 - name: Han Diao
   photo: handiao.jpg
-  info: undergraduate, started in 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1
-  education1: Shanghai Jiao Tong University, China.
+  education1: B.S. Shanghai Jiao Tong University
 
 - name: ChenBen
   photo: chenben.jpg
-  info: undergraduate F16
+  info: Undergraduate, started Sept. 2017
   number educ: 1
-  educational: Shanghai Jiaotong University
+  education1: B.S. Shanghai Jiao Tong University
 
 - name: Wu Jiajin
   photo: wujiajin.jpg
-  info: Undergraduate, started Sept 2017
+  info: Undergraduate, started Sept. 2017
   number_educ: 1 
   education1: B.S. Shanghai Jiao Tong University
 
 - name: Chuan Qin
   photo: chuanqin.jpg
-  info: Undergraduate
+  info: Undergraduate, started Sept. 2017
+  number_educ: 1 
+  education1: B.S. Shanghai Jiao Tong University
+
+- name: Ziyang Zhu
+  photo: zzy.jpg
+  info: Undergraduate, started Sept. 2016
   number_educ: 1
-  education1: Shanghai Jiaotong University
+  education1: B.S. Shanghai Jiao Tong University
