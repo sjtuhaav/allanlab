@@ -56,7 +56,7 @@
 - title: "Rendezvous Path Planning for Multiple Autonomous Marine Vehicles"
   image: Pub_rendezvous.png
   description:
-    A distributed shell space decomposition (DSSD) scheme is proposed for rendezvous trajectory planning of multiple autonomous marine vehicles (AMVs); this category of vehicle includes both autonomous underwater vehicles (AUVs) and autonomous surface vessels (ASVs). 
+    A distributed shell space decomposition (DSSD) scheme is proposed for rendezvous trajectory planning of multiple autonomous marine vehicles (AMVs); this category of vehicle includes both autonomous underwater vehicles (AUVs) and autonomous surface vessels (ASVs). The DSSD extends the concept of shell space decomposition (SSD) by generating multiple sets of shells radiating out from the starting position of each vehicle to the rendezvous destination, enabling each vehicle to generate its trajectory within its own SSD subset. This scheme is combined with an optimized mass-centre rendezvous point selection scheme, together with a B-spline based Quantum Particle Swarm Optimisation (QPSO) technique to find optimal rendezvous trajectories for multiple AMVs with minimal travel time and simultaneous time of arrival for all the participating vehicles. 
   authors:
     Z Zeng, K Sammut, L Lian, A Lammas, F He, Y Tang
   link:
@@ -67,7 +67,7 @@
 - title: "Path Planning of Multi-modal Underwater Vehicle for Adaptive Sampling Using Delaunay Spatial Partition-Ant Colony Optimization"
   image: Pub_path_multi_modal.png
   description:
-    Multi-modal underwater vehicle (MUV) is a newly ocean observation platform with the capability to switch between Argo mode and glider mode. This paper presents an efficient and effective path planner to generate trajectory that exploits ocean energy and makes use of favorable ocean currents to propel and lead the MUV to collect ocean measurements located in high scientific interest areas. 
+    Multi-modal underwater vehicle (MUV) is a newly ocean observation platform with the capability to switch between Argo mode and glider mode. This paper presents an efficient and effective path planner to generate trajectory that exploits ocean energy and makes use of favorable ocean currents to propel and lead the MUV to collect ocean measurements located in high scientific interest areas. The proposed strategy employs MUV mode transition within path planner to enable efficient operation of MUV to drift with ocean currents for measurements and transform to operate as an underwater glider for locomotion.
   authors:
     Z Zeng
   link:
@@ -78,7 +78,7 @@
 - title: "Adaptive Re-Planning of AUVs for Environmental Sampling Missions: A Fuzzy Decision Support System Based on Multi-Objective Particle Swarm Optimization"
   image: Pub_apaptive_sampling.png
   description:
-    This paper presents the first attempt at formulating the autonomous underwater vehicles (AUVs) adaptive sampling problem considering a spatiotemporal ocean environment and energy constraints. 
+    This paper presents the first attempt at formulating the autonomous underwater vehicles (AUVs) adaptive sampling problem considering a spatiotemporal ocean environment and energy constraints. A path re-planning system that applies fuzzy logic in decision-making is then proposed to increase the sampling efficiency and reduce power consumption to complete the mission. A new fuzzy comprehensive evaluation (FCE) method, based on decision-making using fuzzy logic, is then applied to select the optimum route from the solutions by adapting and regenerating trajectories according to the ocean forecast system, analysing different scenarios, and including constraints of the total operational time and energy restrictions. 
   authors:
     Z Zeng
   link:
