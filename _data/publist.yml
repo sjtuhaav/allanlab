@@ -1,3 +1,16 @@
+- title: "Multi-mode Hybrid Aerial Underwater Vehicle with extended Endurance"
+  image: Pub_multi_mode.png
+  description:
+    This paper presents a novel HAUV with better endurance by merging the concepts of underwater gliders (UGs), multi-rotors, and the fixed-wing unmanned aerial vehicles (UAVs) together.
+  authors:
+    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+  link:
+    url: http://www.sciencemag.org/content/327/5962/181
+    display: Science 327, 181 (2010) 
+  highlight: 1
+  news1: A mission based control strategy was then designed for the attitude control of HAUV is also a significant challenge considering the vehicle’s air-water transition.
+  news2: Simulations composed of underwater glide, vertical take-off, and forward flight verify that the proposed HAUV successfully realized the multi-domain motion with the three modes, and the advantages of lower power consumption rate and extended moving ability were also demonstrated.
+
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
@@ -210,70 +223,3 @@
     url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
     display: CHIMIA 11, 759 (2006)
   highlight: 0
-
-
-- title: Dynamic behaviors of a marine riser with variable length during the installation of a subsea production tree
-  description: ""
-  authors:
-    Y Hu, J Cao, B Yao, Z Zeng, L Lian
-  highlight: 0
-
-Journal of Marine Science and Technology 23 (2), 378-388	1	2018
-Rendezvous Path Planning for Multiple Autonomous Marine Vehicles
-Z Zeng, K Sammut, L Lian, A Lammas, F He, Y Tang
-IEEE Journal of Oceanic Engineering		2017
-Adaptive Re-planning of AUVs for Environmental Sampling Missions: A Fuzzy Decision Support System Based on Multi-objective Particle Swarm Optimization
-H Zhou, Z Zeng, L Lian
-International Journal of Fuzzy Systems, 1-22		2017
-Toward optimal rendezvous of multiple underwater gliders: 3D path planning with combined sawtooth and spiral motion
-J Cao, J Cao, Z Zeng, B Yao, L Lian
-Journal of Intelligent & Robotic Systems 85 (1), 189-206	10	2017
-Nonlinear multiple-input-multiple-output adaptive backstepping control of underwater glider systems
-J Cao, J Cao, Z Zeng, L Lian
-International Journal of Advanced Robotic Systems 13 (6), 1729881416669484	1	2016
-A bio-inspired underwater glider with undulatory fin for long-duration, spatially explicit water column sampling
-D Li, Z Zeng, J Cao, D Lu, C Xiong, L Lian
-Autonomous Underwater Vehicles (AUV), 2016 IEEE/OES, 62-68		2016
-A comparison of optimization techniques for AUV path planning in environments with ocean currents
-Z Zeng, K Sammut, L Lian, F He, A Lammas, Y Tang
-Robotics and Autonomous Systems 82, 61-72	6	2016
-Dynamic Analysis of Marine Riser in Subsea Production Tree Installation
-Y Hu, B Yao, Z Zheng, L Lian
-The 26th International Ocean and Polar Engineering Conference		2016
-Research on marine riser in different installations stages of subsea production tree
-Y Hu, B Yao, Z Zheng, L Lian
-OCEANS 2016-Shanghai, 1-7		2016
-Optimal path planning of underwater glider in 3D Dubins motion with minimal energy consumption
-J Cao, J Cao, Z Zeng, L Lian
-OCEANS 2016-Shanghai, 1-7	5	2016
-Hydrodynamic and vertical motion analysis of an underwater glider
-L Yang, J Cao, J Cao, B Yao, Z Zeng, L Lian
-OCEANS 2016-Shanghai, 1-6		2016
-Seagull—Designed for oceanographic research
-J Cao, J Cao, Z Zeng, B Yao, L Lian
-Oceans 2016-Shanghai, 1-7	1	2016
-A survey on path planning for persistent autonomy of autonomous underwater vehicles
-Z Zeng, L Lian, K Sammut, F He, Y Tang, A Lammas
-Ocean Engineering 110, 303-313	35	2015
-Efficient path re-planning for AUVs operating in spatiotemporal currents
-Z Zeng, K Sammut, A Lammas, F He, Y Tang
-Journal of Intelligent & Robotic Systems 79 (1), 135-153	21	2015
-Imperialist Competitive Algorithm for AUV Path Planning in a Variable Ocean
-Z Zeng, K Sammut, A Lammas, F He, Y Tang
-Applied Artificial Intelligence 29 (4), 402-420	1	2015
-Dynamics and approximate semi-analytical solution of an underwater glider in spiral motion
-J Cao, J Cao, Z Zeng, L Lian
-NISCAIR-CSIR, India	3	2015
-Shell space decomposition based path planning for AUVs operating in a variable environment
-Z Zeng, A Lammas, K Sammut, F He, Y Tang
-Ocean Engineering 91, 181-195	30	2014
-Path planning for rendezvous of multiple AUVs operating in a variable ocean
-Z Zeng, A Lammas, K Sammut, F He, Y Tang, Q Ji
-Cyber Technology in Automation, Control, and Intelligent Systems (CYBER …	3	2014
-Efficient path evaluation for AUVs using adaptive B-spline approximation
-Z Zeng, K Sammut, F He, A Lammas
-Oceans, 2012, 1-8	5	2012
-Optimal path planning based on annular space decomposition for AUVs operating in a variable environment
-Z Zeng, A Lammas, K Sammut, F He
-Autonomous Underwater Vehicles (AUV), 2012 IEEE/OES, 1-9	8	2012
-
