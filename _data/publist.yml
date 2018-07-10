@@ -54,3 +54,36 @@
     url: https://ieeexplore.ieee.org/abstract/document/6405066/
     display: "pdf"
   highlight: 1
+
+- title: "Rendezvous Path Planning for Multiple Autonomous Marine Vehicles"
+  image: Pub_rendezvous.png
+  description:
+    A distributed shell space decomposition (DSSD) scheme is proposed for rendezvous trajectory planning of multiple autonomous marine vehicles (AMVs); this category of vehicle includes both autonomous underwater vehicles (AUVs) and autonomous surface vessels (ASVs). 
+  authors:
+    Z Zeng, K Sammut, L Lian, A Lammas, F He, Y Tang
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8013029
+    display: "pdf"
+  highlight: 1
+
+- title: "Path Planning of Multi-modal Underwater Vehicle for Adaptive Sampling Using Delaunay Spatial Partition-Ant Colony Optimization"
+  image: Pub_path_multi_modal.png
+  description:
+    Multi-modal underwater vehicle (MUV) is a newly ocean observation platform with the capability to switch between Argo mode and glider mode. This paper presents an efficient and effective path planner to generate trajectory that exploits ocean energy and makes use of favorable ocean currents to propel and lead the MUV to collect ocean measurements located in high scientific interest areas. 
+  authors:
+    Z Zeng
+  link:
+    url: 
+    display: "pdf"
+  highlight: 1
+
+- title: "Adaptive Re-Planning of AUVs for Environmental Sampling Missions: A Fuzzy Decision Support System Based on Multi-Objective Particle Swarm Optimization"
+  image: Pub_apaptive_sampling.png
+  description:
+    This paper presents the first attempt at formulating the autonomous underwater vehicles (AUVs) adaptive sampling problem considering a spatiotemporal ocean environment and energy constraints. 
+  authors:
+    Z Zeng
+  link:
+    url: 
+    display: "pdf"
+  highlight: 1
