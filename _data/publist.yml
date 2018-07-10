@@ -1,15 +1,13 @@
 - title: "Multi-mode Hybrid Aerial Underwater Vehicle with extended Endurance"
   image: Pub_multi_mode.png
   description:
-    This paper presents a novel HAUV with better endurance by merging the concepts of underwater gliders (UGs), multi-rotors, and the fixed-wing unmanned aerial vehicles (UAVs) together.
+    This paper presents a novel HAUV with better endurance by merging the concepts of underwater gliders (UGs), multi-rotors, and the fixed-wing unmanned aerial vehicles (UAVs) together. A mission based control strategy was then designed for the attitude control of HAUV is also a significant challenge considering the vehicle’s air-water transition. Simulations composed of underwater glide, vertical take-off, and forward flight verify that the proposed HAUV successfully realized the multi-domain motion with the three modes, and the advantages of lower power consumption rate and extended moving ability were also demonstrated.
   authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+    Zeng Zheng
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
+    url:     
+    display: "multi-mode vehicle"
   highlight: 1
-  news2: A mission based control strategy was then designed for the attitude control of HAUV is also a significant challenge considering the vehicle’s air-water transition.
-  news3: Simulations composed of underwater glide, vertical take-off, and forward flight verify that the proposed HAUV successfully realized the multi-domain motion with the three modes, and the advantages of lower power consumption rate and extended moving ability were also demonstrated.
 
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
