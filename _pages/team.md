@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** 
 
 
-Jump to [Senior Consultant](#senior-consultant), [staff](#staff), [master and bachelor students](#master-and-bachelor-students)
+Jump to [Senior Consultant](#senior-consultant), [Advisors](#advisors), [students](#students)
 
 ## Senior Consultant
 {% assign number_printed = 0 %}
