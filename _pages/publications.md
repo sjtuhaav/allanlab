@@ -33,6 +33,30 @@ permalink: /publications/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
   <p> {{ publi.news3 }}</p>
+
+  {% if publi.number_highlight == 1 %}
+  <li> {{ publi.highlight1 }} </li>
+  {% endif %}
+  
+  {% if publi.member_highlight == 2 %}
+  <li> {{ publi.highlight1 }} </li>
+  <li> {{ publi.highlight2 }} </li>
+  {% endif %}
+  
+  {% if publi.member_highlight == 3 %}
+  <li> {{ publi.highlight1 }} </li>
+  <li> {{ publi.highlight2 }} </li>
+  <li> {{ publi.highlight3 }} </li>
+  {% endif %}
+
+  {% if publi.member_highlight == 4 %}
+  <li> {{ publi.highlight1 }} </li>
+  <li> {{ publi.highlight2 }} </li>
+  <li> {{ publi.highlight3 }} </li>
+  <li> {{ publi.highlight4 }} </li>
+  {% endif %}
+ 
+
  </div>
 </div>
 

@@ -8,6 +8,8 @@
     url:     
     display: "pdf"
   highlight: 1
+  number_highlight: 1
+  highlight1: Multi-mode Hybrid Aerial Underwater Vehicle with extended Endurance
 
 - title: "A comparison of optimization techniques for AUV path planning in environments with ocean currents"
   image: Pub_comparison_optimization.png
