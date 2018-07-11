@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
- 
+We are a small, dynamic group at the Shanghai Jiao Tong University. Our aim is to explore and develop novel autonomous marine robotics platforms, afford scientists lower cost and more effective solutions to explore and exploit the oceans.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -15,33 +14,21 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic20180711_1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic20180711_2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic20180711_3.jpg" alt="Slide 3" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FabSCAU.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 6" />
-        </div>
-    </div> 
+   </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -55,20 +42,17 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+To this end, we develop a novel hybrid aerial aquatic vehicle with extended Endurance by merging the concepts of underwater gliders, multi-rotors, and the fixed-wing unmanned aerial vehicles together. the developed HAAV successfully realized the multi-domain motion with the three modes: underwater glide, vertical take-off, and forward flight, and the advantages of lower power consumption rate and extended moving ability were also demonstrated.
+We are located at Shanghai Jiao Tong University, We exchange ideas and work with our business partner AOSHEN Marine Tech. Co.,Ltd, as well as with the colleagues from Shanghai Jiao Tong University Underwater Engineering Institute Co.,Ltd. Academics, students and engineers work together in designing and testing new vehicles, improving autonomy and generating advances in marine robotics.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are looking for passionate new Master and Undergraduate students to join the team
+We are grateful for funding from Shanghai Jiao Tong University, National Natural Science Foundation of China, Shanghai Sailing Program, Qingdao National Laboratory for Marine Science and Technology and AOSHEN Marine Tech. LtD.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team**
- 
- 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+<figure class="third">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jiaotong.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/haiyang.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/shuixia.jpg" style="width: 120px">
 </figure>
 
 
