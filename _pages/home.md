@@ -50,15 +50,15 @@ We are grateful for funding from Shanghai Jiao Tong University, National Natural
 
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jiaotong.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jiaotong.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/haiyang.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/shuixia.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/shuixia.png" style="width: 110px">
 </figure>
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aoshen.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/yvmao.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/msfc.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aoshen.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/yvmao.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/msfc.jpg" style="width: 110px">
 </figure>
 
 
