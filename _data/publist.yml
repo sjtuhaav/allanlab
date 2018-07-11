@@ -70,4 +70,9 @@
   image: Pub_apaptive_sampling.png
   description:
     This paper presents the first attempt at formulating the autonomous underwater vehicles (AUVs) adaptive sampling problem considering a spatiotemporal ocean environment and energy constraints. A path re-planning system that applies fuzzy logic in decision-making is then proposed to increase the sampling efficiency and reduce power consumption to complete the mission. A new fuzzy comprehensive evaluation (FCE) method, based on decision-making using fuzzy logic, is then applied to select the optimum route from the solutions by adapting and regenerating trajectories according to the ocean forecast system, analysing different scenarios, and including constraints of the total operational time and energy restrictions. 
+  authors:
+    H Zhou, Z Zeng, L Lian
+  link:
+    url: https://link.springer.com/article/10.1007/s40815-017-0398-7
+    display: "pdf"
   highlight: 1
