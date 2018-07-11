@@ -28,12 +28,12 @@ permalink: /publications/
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <li> {{ publi.news2 }}</li>
-  <li> {{ publi.news3 }}</li>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-</div>
+  <p> {{ publi.news2 }}</p>
+  <p> {{ publi.news3 }}</p>
+ </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
