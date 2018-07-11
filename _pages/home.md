@@ -20,7 +20,7 @@ We are a small, dynamic group at the Shanghai Jiao Tong University. Our aim is t
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic20180711_1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/water.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic20180711_2.jpg" alt="Slide 2" />
@@ -52,7 +52,7 @@ We are grateful for funding from Shanghai Jiao Tong University, National Natural
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jiaotong.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/haiyang.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/shuixia.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/shuixia.png" style="width: 120px">
 </figure>
 
 <figure class="third">
