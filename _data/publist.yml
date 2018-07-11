@@ -2,9 +2,6 @@
   image: Pub_multi_mode.png
   description:
     This paper presents a novel HAUV with better endurance by merging the concepts of underwater gliders (UGs), multi-rotors, and the fixed-wing unmanned aerial vehicles (UAVs) together. A mission based control strategy was then designed for the attitude control of HAUV is also a significant challenge considering the vehicle’s air-water transition. Simulations composed of underwater glide, vertical take-off, and forward flight verify that the proposed HAUV successfully realized the multi-domain motion with the three modes, and the advantages of lower power consumption rate and extended moving ability were also demonstrated.
-  link:
-    url:     
-    display: "pdf"
   highlight: 1
 
 
@@ -67,20 +64,10 @@
   image: Pub_path_multi_modal.png
   description:
     Multi-modal underwater vehicle (MUV) is a newly ocean observation platform with the capability to switch between Argo mode and glider mode. This paper presents an efficient and effective path planner to generate trajectory that exploits ocean energy and makes use of favorable ocean currents to propel and lead the MUV to collect ocean measurements located in high scientific interest areas. The proposed strategy employs MUV mode transition within path planner to enable efficient operation of MUV to drift with ocean currents for measurements and transform to operate as an underwater glider for locomotion.
-  authors:
-    Z Zeng
-  link:
-    url: 
-    display: "pdf"
   highlight: 1
 
 - title: "Adaptive Re-Planning of AUVs for Environmental Sampling Missions: A Fuzzy Decision Support System Based on Multi-Objective Particle Swarm Optimization"
   image: Pub_apaptive_sampling.png
   description:
     This paper presents the first attempt at formulating the autonomous underwater vehicles (AUVs) adaptive sampling problem considering a spatiotemporal ocean environment and energy constraints. A path re-planning system that applies fuzzy logic in decision-making is then proposed to increase the sampling efficiency and reduce power consumption to complete the mission. A new fuzzy comprehensive evaluation (FCE) method, based on decision-making using fuzzy logic, is then applied to select the optimum route from the solutions by adapting and regenerating trajectories according to the ocean forecast system, analysing different scenarios, and including constraints of the total operational time and energy restrictions. 
-  authors:
-    Z Zeng
-  link:
-    url: 
-    display: "pdf"
   highlight: 1
