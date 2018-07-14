@@ -6,9 +6,8 @@ permalink: /pictures/
 ---
 
 
-## Our video
 
-#### Our uav 
+#### Nezha: A Multi-mode Hybrid Aerial Underwater Vehicle
 
 <video width="480" height="320" controls>
 <source src="{{ site.url }}{{ site.baseurl }}/images/video/nezha.mp4">
