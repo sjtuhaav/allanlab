@@ -12,23 +12,17 @@
   image: pic6.JPG
 - title: pic1_description
   image: pic7.JPG
-- title: pic1_description
-  image: pic8.JPG
-- title: pic1_description
+ title: pic1_description
   image: pic9.JPG
 - title: pic1_description
   image: pic10.JPG
 - title: pic1_description
   image: pic11.JPG
-- title: pic1_description
-  image: pic12.JPG
-- title: pic1_description
+ title: pic1_description
   image: pic13.JPG
 - title: pic1_description
   image: pic14.JPG
-- title: pic1_description
-  image: pic15.JPG
-- title: pic1_description
+ title: pic1_description
   image: pic16.JPG
 - title: pic1_description
   image: pic17.JPG
@@ -44,3 +38,9 @@
   image: pic22.JPG
 - title: pic1_description
   image: pic23.JPG
+- title: pic1_description
+  image: pic24.JPG
+- title: pic1_description
+  image: pic25.JPG
+- title: pic1_description
+  image: pic26.JPG
