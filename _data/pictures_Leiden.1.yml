@@ -12,7 +12,7 @@
   image: pic6.JPG
 - title: pic1_description
   image: pic7.JPG
-- title: pic1_description
+ title: pic1_description
   image: pic9.JPG
 - title: pic1_description
   image: pic10.JPG
@@ -36,9 +36,4 @@
   image: pic21.JPG
 - title: pic1_description
   image: pic22.JPG
-- title: pic1_description
-  image: pic23.JPG
-- title: pic1_description
-  image: pic24.JPG
-- title: pic1_description
-  image: pic25.JPG
+
