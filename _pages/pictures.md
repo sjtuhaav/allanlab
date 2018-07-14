@@ -14,13 +14,6 @@ permalink: /pictures/
 <source src="{{ site.url }}{{ site.baseurl }}/images/video/nezha.mp4">
 </video>
 
-
-## Zeng Zheng
-Group leader of SJTUHAAV in [SJTU](https://www.sjtu.edu.cn/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zengzheng.png" width="60%">
-</figure>
-
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
