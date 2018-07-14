@@ -18,11 +18,9 @@ permalink: /projects
 
 A prototype, NEZHA I, has been developed, fabricated and tested the capability of operating in aerial and underwater environments. The prototype features a framework similar with quadrotors except that a central cylinder watertight enclosure is used to store the battery, RC receiver, control boards, buoyancy adjustment system, and other components needed to be isolated from water.
 
-<figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/nezha_s_1.png" style="width: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/nezha_s_2.png" style="width: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/nezha_s_3.png" style="width: 250px">
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/nezha_s_1.png" style="width: 800px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/nezha_s_2.png" style="width: 800px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/nezha_s_3.png" style="width: 800px">
 
 ## Undergraduate Projects
 
@@ -45,5 +43,5 @@ This project completes the design and experimental verification of an observatio
 -	设计并搭建控制系统和动力系统， 
 -	设计相应实验，测试整个结构的水密性，并检测潜水和飞行的功能是否完善
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/qianting1.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/qianting2.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/qianting1.png" style="width: 800px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/qianting2.jpg" style="width: 800px">
