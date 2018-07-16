@@ -45,6 +45,13 @@
   education1: B.S. Shanghai Jiao Tong University
   education2: Master Shanghai Jiao Tong University
 
+- name: Qiaolun Zhang
+  photo: zhangqiaolun.jpg
+  info: Master, started Sept. 2018
+  number_educ: 1
+  educations1: B.S. Shanghai Jiao Tong University
+  educations2: Master Politecnico di Milano
+
 
 - name: Bozhi Lyu
   photo: BozhiLyu.jpg
@@ -101,12 +108,7 @@
   number_educ: 1
   education1: B.S. Shanghai Jiao Tong University
 
-- name: Qiaolun Zhang
-  photo: zhangqiaolun.jpg
-  info: Master, started Sept. 2018
-  number_educ: 1
-  educations1: B.S. Shanghai Jiao Tong University
-  educations2: Master Politecnico di Milano
+
 
 - name: He Jiaping
   photo: hejiaping.jpg
